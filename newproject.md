@@ -1,1 +1,2 @@
 hi this is me and im really excited to announce that im starting to new project but this project is not like to other ones this is a big project and this project contains machine learning
+this project is mainly purposing to meet football fans with ai but its not like a simple ones this ai will be predict the players career path as well as ai can predict how much goal can player score and will be able to say is player compatible with the team or not
